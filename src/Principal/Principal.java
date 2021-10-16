@@ -25,7 +25,7 @@ public class Principal {
 
         System.out.println("Hola mundo");
         int numero = 30;
-        
+        int entero = 1;
     }
     
     
