@@ -23,6 +23,7 @@ public class Principal {
         Serie serie = new Serie();
         serie.Ingresar();
 
+        System.out.println("Hola mundo");
     }
     
     
