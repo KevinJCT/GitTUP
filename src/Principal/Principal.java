@@ -24,6 +24,8 @@ public class Principal {
         serie.Ingresar();
 
         System.out.println("Hola mundo");
+        int numero = 30;
+        
     }
     
     
